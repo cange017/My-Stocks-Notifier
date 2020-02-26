@@ -1,0 +1,4 @@
+numpy
+robin-stocks
+win10toast
+twilio
